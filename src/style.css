@@ -1,0 +1,12 @@
+h1 {
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color:darkslateblue;
+}
+
+#image {
+  background: url("EvSX2mRVkAIuOd7.jpg");
+  background-repeat: no-repeat;
+  background-size: contain;
+  height: 300px;
+  width: 600px;
+}
